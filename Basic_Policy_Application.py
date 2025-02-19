@@ -6,10 +6,15 @@ import datetime, time, string
 
 mail_from = input("Enter Your Email")
 
-#Block Sender Policy
-block_sender = {
-    'gmail.com' : 'tkhutswa@test.com'
-}
 
-for i in mail_from.split("@"):
-    print(i)
+#Block Sender Policy
+block_sender = ['gmail.com'] #block everything coming inbound from gmail.com
+array = []
+
+for mail in mail_from.split("@"):
+    array.append(mail)
+    
+if array[1] in block_sender:
+    print('mail blocked')
+else:
+    print('Allowed through')
