@@ -8,6 +8,7 @@ mail_from = input("Enter Your Email\n")
 
 
 #Block Sender Policy
+#Can intro a function but for now control flow works
 block_sender = {'gmail.com': 'Un_Pol_#01'} #block everything coming inbound from gmail.com
 array = []
 
