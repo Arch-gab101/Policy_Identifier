@@ -1,0 +1,177 @@
+[
+    {
+        "timestamp": "2025-02-22 16:37:24",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "e922f3",
+        "category": "task"
+    },
+    {
+        "timestamp": "2025-02-22 16:37:24",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "e922f3",
+        "category": "dkim"
+    },
+    {
+        "timestamp": "2025-02-22 16:37:24",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "e922f3",
+        "category": "task"
+    },
+    {
+        "timestamp": "2025-02-22 16:37:25",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "e922f3",
+        "category": "task"
+    },
+    {
+        "timestamp": "2025-02-22 16:37:25",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "e922f3",
+        "category": "task"
+    },
+    {
+        "timestamp": "2025-02-22 16:37:25",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "e922f3",
+        "category": "task"
+    },
+    {
+        "timestamp": "2025-02-22 16:37:25",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "e922f3",
+        "category": "task"
+    },
+    {
+        "timestamp": "2025-02-22 16:37:25",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "e922f3",
+        "category": "task"
+    },
+    {
+        "timestamp": "2025-02-22 16:37:25",
+        "process_id": "349393",
+        "process_type": "rspamd_proxy",
+        "task_id": "3c91c3",
+        "category": "proxy"
+    },
+    {
+        "timestamp": "2025-02-22 16:37:41",
+        "process_id": "349394",
+        "process_type": "controller",
+        "task_id": "1ccygw",
+        "category": "monitored"
+    },
+    {
+        "timestamp": "2025-02-22 16:38:32",
+        "process_id": "349393",
+        "process_type": "rspamd_proxy",
+        "task_id": "b6a5b1",
+        "category": "proxy"
+    },
+    {
+        "timestamp": "2025-02-22 16:38:34",
+        "process_id": "349393",
+        "process_type": "rspamd_proxy",
+        "task_id": "b6a5b1",
+        "category": "milter"
+    },
+    {
+        "timestamp": "2025-02-22 16:38:34",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "526121",
+        "category": "task"
+    },
+    {
+        "timestamp": "2025-02-22 16:38:34",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "526121",
+        "category": "task"
+    },
+    {
+        "timestamp": "2025-02-22 16:38:34",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "526121",
+        "category": "task"
+    },
+    {
+        "timestamp": "2025-02-22 16:38:34",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "526121",
+        "category": "task"
+    },
+    {
+        "timestamp": "2025-02-22 16:38:34",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "526121",
+        "category": "task"
+    },
+    {
+        "timestamp": "2025-02-22 16:38:34",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "526121",
+        "category": "task"
+    },
+    {
+        "timestamp": "2025-02-22 16:38:34",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "526121",
+        "category": "task"
+    },
+    {
+        "timestamp": "2025-02-22 16:38:34",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "526121",
+        "category": "dkim"
+    },
+    {
+        "timestamp": "2025-02-22 16:38:34",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "526121",
+        "category": "task"
+    },
+    {
+        "timestamp": "2025-02-22 16:38:34",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "526121",
+        "category": "task"
+    },
+    {
+        "timestamp": "2025-02-22 16:38:34",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "526121",
+        "category": "task"
+    },
+    {
+        "timestamp": "2025-02-22 16:38:34",
+        "process_id": "349396",
+        "process_type": "normal",
+        "task_id": "526121",
+        "category": "task"
+    },
+    {
+        "timestamp": "2025-02-22 16:38:35",
+        "process_id": "349393",
+        "process_type": "rspamd_proxy",
+        "task_id": "c33ab1",
+        "category": "proxy"
+    }
+]
